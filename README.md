@@ -9,6 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fferme&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
@@ -21,3 +22,9 @@
   <img align="center" alt="Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
+<br>
+    <div style="text-align: center;display: inline">
+<a href="https://app.bounties4.com/@/fferme" target="_blank"><img title="bounties4.com/@/fferme" alt="bounties4.com/@/fferme" src="https://storage.googleapis.com/profile_avatar/production/104692024746832015614/1703096085542_badge.png" width="400" height="400" /></a>
+</div>
+
+
