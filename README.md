@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe Ferme
 
-- 🔭 Atualmente trabalhando com back-end
-- 🌱 Estudando Java & Angular e Spring Boot
+- 🔭 Atualmente trabalhando com Caché Object Script
+- 🌱 Estudando Java/Spring Boot & React
 - 😄 Pronouns: ele/dele
 
 <div>
