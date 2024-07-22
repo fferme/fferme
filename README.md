@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Felipe Ferme
 
-- 🔭 Atualmente trabalhando com Caché Object Script
-- 🌱 Estudando Java/Spring Boot & React
+- 🌱 Estudando Java/Spring Boot & Angular
 
 <div>
   <a href="https://beacons.ai/fferme">
